@@ -1,27 +1,5 @@
-<html>
-  <head>
-    <script>
-  var i = 0;
-  var text = "welcome to my profile";
-  var speed = 50;
-  function typeWriter() {
-    if (i < text.length) {
-      document.getElementById("text").innerHtml += txt.charAt(i);
-      i++;
-      setTimeout(typeWriter, speed);
-    }
-  }
-</script>
-  </head>
-  <body>
 
- 
-  </body>
-</html>
-
-
-
- <h1 align="center" id="text" style="    animation:
+ <h1 align="center" id="text" style="animation:
         typing 5s steps(68),
         cursor.4s step-end alternate-reverse;     ">welcome to my profile</h1>
 ### Hi there 👋
