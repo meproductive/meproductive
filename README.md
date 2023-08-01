@@ -1,4 +1,9 @@
-<script>
+<html>
+  <head>
+  </head>
+  <body>
+
+  <script>
   var i = 0;
   var text = "welcome to my profile";
   var speed = 50;
@@ -9,8 +14,13 @@
       setTimeout(typeWriter, speed);
     }
   }
+    <h1 align="center" id="text"></h1>
 </script>
-<h1 align="center" id="text"></h1>
+  </body>
+</html>
+
+
+
 
 ### Hi there 👋
 
