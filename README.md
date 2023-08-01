@@ -1,16 +1,16 @@
 <script>
-  var text = document.getElementById('text');  var typewriter = new Typewriter(text, {  loop: true; });
-  typewriter.typeString('Hello World!')
-    .pauseFor(2500)
-    .deleteAll()
-    .typeString('Strings can be removed')
-    .pauseFor(2500)
-    .deleteChars(7)
-    .typeString('<strong>altered!</strong>')
-    .pauseFor(2500)
-    .start();"
+  var i = 0;
+  var text = "welcome to my profile";
+  var speed = 50;
+  function typeWriter() {
+    if (i < text.length) {
+      document.getElementById("text").innerHtml += txt.charAt(i);
+      i++;
+      setTimeout(typeWriter, speed);
+    }
+  }
 </script>
-<h1 align="center" id="text">Welcome To My Profile</h1>
+<h1 align="center" id="text"></h1>
 
 ### Hi there 👋
 
