@@ -1,8 +1,5 @@
 <script>
-  var text = document.getElementById('text');
-  var typewriter = new Typewriter(text, {
-  loop: true;
-  });
+  var text = document.getElementById('text');  var typewriter = new Typewriter(text, {  loop: true; });
   typewriter.typeString('Hello World!')
     .pauseFor(2500)
     .deleteAll()
