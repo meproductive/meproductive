@@ -1,7 +1,5 @@
 
- <h1 align="center" id="text" style="animation:
-        typing 5s steps(68),
-        cursor.4s step-end alternate-reverse;     ">welcome to my profile</h1>
+ <h1 style="text-align: center;">welcome to my profile</h1>
 ### Hi there 👋
 
 <!--
