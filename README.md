@@ -1,6 +1,4 @@
-
-<h1 align="center"
-  id="text" 
+<script>
   script="var text = document.getElementById('text');
   var typewriter = new Typewriter(text, {
   loop: true;
@@ -14,6 +12,9 @@
     .typeString('<strong>altered!</strong>')
     .pauseFor(2500)
     .start();"
+</script>
+<h1 align="center"
+  id="text" 
   >Welcome To My Profile</h1>
 
 ### Hi there 👋
