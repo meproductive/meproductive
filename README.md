@@ -1,10 +1,6 @@
 <html>
   <head>
-  </head>
-  <body>
-
-  <h1 align="center" id="text"></h1>
-  <script>
+    <script>
   var i = 0;
   var text = "welcome to my profile";
   var speed = 50;
@@ -16,6 +12,10 @@
     }
   }
 </script>
+  </head>
+  <body>
+
+  <h1 align="center" id="text"></h1>
   </body>
 </html>
 
