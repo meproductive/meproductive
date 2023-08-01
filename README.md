@@ -1,5 +1,5 @@
 
- <h1 style="text-align: center">welcome to my profile</h1>
+
 ### Hi there 👋
 
 <!--
