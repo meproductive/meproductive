@@ -3,6 +3,7 @@
   </head>
   <body>
 
+  <h1 align="center" id="text"></h1>
   <script>
   var i = 0;
   var text = "welcome to my profile";
@@ -14,7 +15,6 @@
       setTimeout(typeWriter, speed);
     }
   }
-    <h1 align="center" id="text"></h1>
 </script>
   </body>
 </html>
