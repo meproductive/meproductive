@@ -1,5 +1,6 @@
 <script>
-  script="var text = document.getElementById('text');
+  script="
+  var text = document.getElementById('text');
   var typewriter = new Typewriter(text, {
   loop: true;
   });
