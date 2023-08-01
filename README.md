@@ -1,3 +1,10 @@
+string text = "Welcome To My Profile";
+for (int i = 0; i < text.length; i++) 
+{
+    console.WriteLine(text[i]);
+    Thread.Sleep(100);
+}
+
 ### Hi there 👋
 
 <!--
