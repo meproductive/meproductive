@@ -10,9 +10,7 @@
     .pauseFor(2500)
     .start();"
 </script>
-<h1 align="center"
-  id="text" 
-  >Welcome To My Profile</h1>
+<h1 align="center" id="text">Welcome To My Profile</h1>
 
 ### Hi there 👋
 
