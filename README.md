@@ -2,7 +2,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=000000&center=true&width=435&lines=Welcome+To+My+Profile" alt="Typing SVG" /></a>
 </p>
 
-<h1 align="center">Hi There</h1>
 <!--
 **meproductive/meproductive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
